@@ -1,0 +1,9 @@
+#Gameboard {
+    background-color: black;
+    width: 1200px;
+    height: 700px;
+}
+
+h1 {
+    text-align: center;
+}
