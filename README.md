@@ -14,6 +14,13 @@ Say both players play a card of the same value (i.e. 4 of Hearts & 4 of Clubs). 
 
 # End of Game:
 
-Once the game has ended you will be taken to a page that gives you the option to play game again. 
+Once the game has ended you will be taken to a page that gives you the option to rematch. 
 
 --------------------------------------------------------------------------------------
+
+# MVP Goals: 
+
+-make it pretty
+-play against computer option
+-create specialized cards
+-win counter
