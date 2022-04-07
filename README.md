@@ -1,5 +1,9 @@
 # Game-of-War
 
+# Wireframe 
+
+https://www.figma.com/file/jX4SF9vtWhbjw2pGnIvYFO/Game-of-War?node-id=0%3A1
+
 # Overview of the Game:
 
 Player 1 and Player 2 are battling for the title of winner. The 'war' is comprised of several 'battles' in which each player draws a card and places it upright in the center of the table. Whichever players card has a higher value wins that battle and gets to place both cards played back into their deck. The first player to lose all of their cards is the loser and the other player is declared winner. 
@@ -20,7 +24,17 @@ Once the game has ended you will be taken to a page that gives you the option to
 
 # MVP Goals: 
 
--make it pretty
+-have player 1 & player 2
+-click on button to show cards
+-cards assigned to winner of that round
+-card counter
+-reset button
+-create 52 cards
+-randomly assign cards evenly to both players
+
+# Stretch 
+
 -play against computer option
 -create specialized cards
 -win counter
+-make it pretty

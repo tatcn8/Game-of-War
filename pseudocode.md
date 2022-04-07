@@ -1,4 +1,4 @@
-PHASE 1
+# PHASE 1
 
 1. Click start on opening page
 2. Click both player 1 and player 2 'draw' buttons
@@ -9,7 +9,7 @@ PHASE 1
 7. Player who eventually holds all of the cards in the deck is declared the winner. 
 8. Once a winner is declared that user will be brought to a screen with a button that gives them the option for a rematch. 
 
-PHASE 2
+# PHASE 2
 
 1. Create a cards object
     a. create suits property
@@ -17,7 +17,7 @@ PHASE 2
 2. Create a deck object
 3. Create a rematch function
 
-HTML: 
+#  HTML: 
 
 - H1 of "Game of War"
 - P1, P2, & Next buttons
@@ -27,11 +27,11 @@ HTML:
 - P1 & P2 Deck of Cards div
 - Middle of table div
 
-Page 1:
+# Page 1:
 -Needs Title & Start button
 -Once start button is pressed it will need to transfer over to the game table
 
-Game Page:
+# Game Page:
 -needs 2 places for the cards
 -cards need to be evenly distrubeted (each player having 26 cards at the beginning)
 -each pile of cards needs to be connected to their specific draw button that when pressed will flip over the top card in their deck
@@ -40,6 +40,15 @@ Game Page:
 -once one player has run out of cards, opposite player is declared the winner
 -once a winner is declared user is taken to a rematch page
 
-Rematch Page:
+# Rematch Page:
 -rematch must have a 'rematch' button
 -rematch page must be able to take user back to game page
+
+# I will need:
+
+const playerOne
+const playerTwo
+const deckOfCards
+const cards
+const playerOneScore
+const playerTwoScore
