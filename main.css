@@ -5,3 +5,19 @@
 h1 {
     text-align: center;
 }
+
+.winner1{
+    display: none;
+}
+.winner2{
+    display: none;
+}
+.winner3{
+    display: none;
+}
+.winner4{
+    display: none;
+}
+.draw{
+    display: none;
+}
